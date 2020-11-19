@@ -1,0 +1,11 @@
+﻿  Sorting.cpp
+e:\homework\sorting\sorting\sorting.cpp(53): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  e:\homework\sorting\sorting\sorting.cpp(53): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  e:\homework\sorting\sorting\sorting.cpp(53): note: the missing variadic argument 2 is required by format string '%c'
+  e:\homework\sorting\sorting\sorting.cpp(53): note: this argument is used as a buffer size
+e:\homework\sorting\sorting\sorting.cpp(54): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  e:\homework\sorting\sorting\sorting.cpp(54): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  e:\homework\sorting\sorting\sorting.cpp(54): note: the missing variadic argument 2 is required by format string '%c'
+  e:\homework\sorting\sorting\sorting.cpp(54): note: this argument is used as a buffer size
+  Sorting.vcxproj -> E:\HomeWork\Sorting\Debug\Sorting.exe
+  Sorting.vcxproj -> E:\HomeWork\Sorting\Debug\Sorting.pdb (Full PDB)
